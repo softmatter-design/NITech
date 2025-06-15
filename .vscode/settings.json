@@ -1,0 +1,4 @@
+{
+    "markdown-image.base.codeType": "HTML",
+    "markdown-image.base.codeFormat": "<img src=$(src) alt=$(alt) width=50% />"
+}
